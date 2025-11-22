@@ -1,1 +1,7 @@
-"[{\"account\":\"Ludovit\",\"stone\":36,\"wood\":312,\"iron\":14,\"timestamp\":\"2025-11-22T21:36:46.943Z\"}]"
+{
+        "account": "Ludovit",
+        "stone": 0,
+        "wood": 0,
+        "iron": 0,
+        "timestamp": "2025-11-21T12:00:00.000Z"
+ }
