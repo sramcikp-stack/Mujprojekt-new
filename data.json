@@ -1,51 +1,7 @@
-[
-    {
-        "account": "Inkvizitor",
-        "stone": 0,
-        "wood": 0,
-        "iron": 0,
-        "timestamp": "2025-11-21T12:00:00.000Z"
-    },
-    {
-        "account": "Věštec",
-        "stone": 0,
-        "wood": 0,
-        "iron": 0,
-        "timestamp": "2025-11-21T12:00:00.000Z"
-    },
-    {
-        "account": "Nomád Z Jihu",
-        "stone": 0,
-        "wood": 0,
-        "iron": 0,
-        "timestamp": "2025-11-21T12:00:00.000Z"
-    },
-    {
-        "account": "Poutník Noci",
-        "stone": 0,
-        "wood": 0,
-        "iron": 0,
-        "timestamp": "2025-11-21T12:00:00.000Z"
-    },
-    {
-        "account": "Alchymista",
-        "stone": 0,
-        "wood": 0,
-        "iron": 0,
-        "timestamp": "2025-11-21T12:00:00.000Z"
-    },
-    {
-        "account": "Ludovit",
-        "stone": 734,
-        "wood": 11049,
-        "iron": 1223,
-        "timestamp": "2025-11-25T13:22:02.577Z"
-    },
-    {
-        "account": "BUK",
-        "stone": 0,
-        "wood": 0,
-        "iron": 0,
-        "timestamp": "2025-11-21T12:00:00.000Z"
-    }
-]
+{
+    "account": "Ludovit",
+    "stone": 1208,
+    "wood": 11392,
+    "iron": 1650,
+    "timestamp": "2025-11-25T13:32:06.588Z"
+}
